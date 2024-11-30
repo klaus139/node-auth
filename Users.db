@@ -1,0 +1,3 @@
+{"name":"admin","email":"admin@gmail.com","password":"$2a$10$SNuE58TVL6n1B0V/ri1NQOMsa4PTJ7G.qqcHMaE2IWAqiIy/1JTfW","role":"admin","_id":"0BNDeMKS5lS49Wcx"}
+{"name":"mode","email":"mode@gmail.com","password":"$2a$10$peWKxq6AUS.BLpKHUlYwWuavvUH/s7scefsBDd8eZ1lBT9rNwrkau","role":"moderator","_id":"Y2H67uBQhOFlWXRZ"}
+{"name":"james","email":"james@gmail.com","password":"$2a$10$k8w3WV5Bm47QHASm70OM/ue9OvPqXs/I4GeY7RKYVB.ZWZ26Rt9iq","role":"member","_id":"rqWeek8QJcZCm6CG"}
