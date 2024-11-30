@@ -1,3 +1,2 @@
-{"name":"admin","email":"admin@gmail.com","password":"$2a$10$SNuE58TVL6n1B0V/ri1NQOMsa4PTJ7G.qqcHMaE2IWAqiIy/1JTfW","role":"admin","_id":"0BNDeMKS5lS49Wcx"}
-{"name":"mode","email":"mode@gmail.com","password":"$2a$10$peWKxq6AUS.BLpKHUlYwWuavvUH/s7scefsBDd8eZ1lBT9rNwrkau","role":"moderator","_id":"Y2H67uBQhOFlWXRZ"}
-{"name":"james","email":"james@gmail.com","password":"$2a$10$k8w3WV5Bm47QHASm70OM/ue9OvPqXs/I4GeY7RKYVB.ZWZ26Rt9iq","role":"member","_id":"rqWeek8QJcZCm6CG"}
+{"name":"newuser","email":"newuser@gmail.com","password":"$2a$10$zHjB1MNoxbU4Wj9MFg3F7OD0QkVEl2W6KdpimzKa.tFzxOL.94GIS","role":"moderator","2faEnable":false,"2faSecret":null,"_id":"EjPTL36aDXe5vl2t"}
+{"name":"mode","email":"mode@gmail.com","password":"$2a$10$MUjMtxq0DDtVQeqLxAG4AO6ERlKQFLjxSFVFHrjpJ/SahoO5Hzbo2","role":"moderator","2faEnable":true,"2faSecret":"HRJVIC3ECZACO72L","_id":"t4n46G6k4vkcAkwm"}
